@@ -1,9 +1,9 @@
 ![Captura de tela_20230104_232904](https://user-images.githubusercontent.com/121991259/210687805-2e26e505-63b8-4b05-8b41-e00dafbe4cbd.png)
-<h1>Pokedex bonitona primeira versão</h1>
+<h1>Pokedex versão 1.1.2</h1>
 <h2>Links</h2>
 <ul>
   <li>
-    <a href="#" target="_blank">Link do site</a>
+    <a href="https://mauriciomcoutinho.github.io/pokedex/" target="_blank">Link do site</a>
   </li>
   <li>
     <a href="https://github.com/MauricioMCoutinho?tab=repositories" target="_blank">Meu portfólio no Github</a>
